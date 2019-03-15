@@ -1,0 +1,38 @@
+.jumbotron {
+    text-align: center;
+    background-color: #a10067;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 13.5px;
+    color: white;
+}
+
+#joke {
+    margin-bottom: 5px;
+}
+
+body {
+    background-image: url("https://image-cdn.neatoshop.com/styleimg/59510/none/white/default/353966-20;1495720183j.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#train-data {
+    margin-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#add-train {
+    margin-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#body {
+    width: 1000px;
+}
+
+#object1, #object2{ position: absolute; left: -200px; top: 550px;}
+#object1 { background-color: #e2f700; z-index:10; height: 20px; width: 100px;}
+#object2 { background-color: darkturquoise; z-index:10; height: 20px; width: 100px;}
+
