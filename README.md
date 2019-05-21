@@ -1,4 +1,4 @@
-Train Schedule Database: 
+#Train Schedule Database: 
 
 I created a Firebase backed train schedule application using HTML, CSS, Bootstrap, and jQuery to render the schedule and admin panel on the web page.
 
